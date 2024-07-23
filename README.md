@@ -30,4 +30,4 @@ bash
 Copy code
 streamlit run chatbot.py
 If any dependencies are missing, follow the terminal suggestions to install them.
-That's it! 🎊 I hope you enjoy exploring this project as much as I enjoyed creating it. Thanks for visiting!
+That's it! 🎊 I hope you enjoy exploring this project as much as I enjoyed creating it. Thanks for visiting!....
